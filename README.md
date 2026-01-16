@@ -13,13 +13,13 @@ Creating a professional report and presentation.
 
 
 
-📊 Dataset
+## 📊 Dataset
 
 File: shopping_trends.csv.
 Summary table created from inested data and used for analysis.
 
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn).
 - SQL (MySQL).
@@ -29,7 +29,7 @@ Summary table created from inested data and used for analysis.
 
 
 
-🔁 Project Steps
+## 🔁 Project Steps
 
 1. Data Loading (Python).
 - Load CSV using Pandas.
@@ -83,7 +83,7 @@ Slicers:
 - Subscription Status
 
 
-📊 Results & Key Insights.
+## 📊 Results & Key Insights.
 
 - Clothing category generates the highest revenue.
 - Subscribed customers have higher lifetime value.
@@ -93,7 +93,7 @@ Slicers:
 - Loyal customers are the strongest revenue contributors.
 
 
-📈 Dashboard Output
+## 📈 Dashboard Output
 
 The dashboard presents:
 - Business performance at a glance
@@ -104,7 +104,7 @@ The dashboard presents:
 <img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/5c8b79de-db70-47c2-974d-15390d2a6c87" />
 
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 1.Clone the repository.
    - https://github.com/deep1652000/shopping_trend_analytics_dashboard/tree/main
