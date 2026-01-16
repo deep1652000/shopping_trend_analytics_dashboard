@@ -31,8 +31,8 @@ Summary table created from inested data and used for analysis.
 
 🔁 Project Steps
 
-1. Data Loading (Python)
--Load CSV using Pandas.
+1. Data Loading (Python).
+- Load CSV using Pandas.
 import pandas as pd
 df = pd.read_csv("shopping_trends.csv").
 
