@@ -1,7 +1,7 @@
 # Shopping Trend Analysis
 This project is an end-to-end Data Analytics project is built with the help of Python, SQL, and Power BI to know the  customers shopping behavior and identify key revenue drivers.
  
- 📌 Overview
+ ## 📌 Overview
 
 This project evaluate customer shopping behaviour to drive strategics meaningful business insights using Python, SQL, and Power BI fro visualization.
 The workflow covers:
