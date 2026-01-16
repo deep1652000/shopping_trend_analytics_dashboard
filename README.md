@@ -15,8 +15,8 @@ Creating a professional report and presentation.
 
 ## 📊 Dataset
 
-File: shopping_trends.csv.
-Summary table created from inested data and used for analysis.
+- <a href="https://github.com/deep1652000/shopping_trend_analytics_dashboard/blob/main/customer_shopping_behavior%20(1).csv">Dataset</a>
+- File: shopping_trends.csv.
 
 
 ## 🛠️ Tools & Technologies
