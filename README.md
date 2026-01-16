@@ -111,7 +111,7 @@ The dashboard presents:
 
 2.Run Python notebooks:
    - pip install pandas numpy matplotlib seaborn.
--Open Jupyter Notebook and run EDA & cleaning files.
+- Open Jupyter Notebook and run EDA & cleaning files.
 
 3.Load cleaned data into MySQL.
 - Create database.
