@@ -106,7 +106,8 @@ The dashboard presents:
 
 ▶️ How to Run the Project
 
-1.Clone the repository
+1.Clone the repository.
+   https://github.com/deep1652000/shopping_trend_analytics_dashboard/tree/main
 
 2.Run Python notebooks:
 pip install pandas numpy matplotlib seaborn
