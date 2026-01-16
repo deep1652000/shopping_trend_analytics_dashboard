@@ -107,15 +107,18 @@ The dashboard presents:
 ▶️ How to Run the Project
 
 1.Clone the repository.
-   https://github.com/deep1652000/shopping_trend_analytics_dashboard/tree/main
+   - https://github.com/deep1652000/shopping_trend_analytics_dashboard/tree/main
 
 2.Run Python notebooks:
-pip install pandas numpy matplotlib seaborn
-Open Jupyter Notebook and run EDA & cleaning files.
+   - pip install pandas numpy matplotlib seaborn.
+-Open Jupyter Notebook and run EDA & cleaning files.
+
 3.Load cleaned data into MySQL.
 - Create database.
 - Import CSV using MySQL Workbench or Python.
+ 
 4.Run SQL queries from /sql_queries.sql.
+
 5.Open Power BI:
 - Load cleaned CSV or connect to MySQL.
 - Refresh data.
