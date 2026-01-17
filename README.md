@@ -24,7 +24,7 @@ Creating a professional report and presentation.
 - Python (Pandas, NumPy, Matplotlib, Seaborn).
 - SQL (MySQL).
 - Power BI (Data Modeling, DAX, Dashboarding).
-- Gamma → PPT & Report Generation.
+- Gamma → PPT.
 - GitHub.
 
 
@@ -34,7 +34,7 @@ Creating a professional report and presentation.
 1. Data Loading (Python).
 - Load CSV using Pandas.
 import pandas as pd
-df = pd.read_csv("shopping_trends.csv").
+<a df = pd.read_csv("shopping_trends.csv") a>.
 
 2. Exploratory Data Analysis (EDA).
 - Check shape, columns, data types.
@@ -90,6 +90,7 @@ Slicers:
 - Express shipping users spend more on average.
 - Discounts increase purchase frequency but can reduce AOV.
 - Young adults contribute the most to total revenue.
+- Female customers slightly outperform in total revenue.
 - Loyal customers are the strongest revenue contributors.
 
 
