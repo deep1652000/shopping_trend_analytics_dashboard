@@ -33,7 +33,7 @@ Creating a professional report and presentation.
 
 1. Data Loading (Python).
 - Load CSV using Pandas.
--import pandas as pd
+- import pandas as pd
 df = pd.read_csv("shopping_trends.csv").
 
 2. Exploratory Data Analysis (EDA).
