@@ -6,11 +6,11 @@ This project is an end-to-end Data Analytics project is built with the help of P
 
 This project evaluate customer shopping data, performs exploratory analysis, answers business questions via SQL, and presents some insights with an interactive Power BI dashboard
 The workflow covers:
-Loading and cleaning data in Python.
-Performing Exploratory Data Analysis (EDA).
-Running business-focused SQL queries in MySQL.
-Building an interactive Power BI dashboard.
-Creating a professional report and presentation.
+- Loading and cleaning data in Python.
+- Performing Exploratory Data Analysis (EDA).
+- Running business-focused SQL queries in MySQL.
+- Building an interactive Power BI dashboard.
+- Creating a professional report and presentation.
 
 
 
@@ -34,7 +34,7 @@ Creating a professional report and presentation.
 
 1. Data Loading (Python).
 - Load CSV using Pandas.
-- import pandas as pd
+- import pandas as pd.
 df = pd.read_csv("shopping_trends.csv").
 
 2. Exploratory Data Analysis (EDA).
