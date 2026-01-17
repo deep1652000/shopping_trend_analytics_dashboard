@@ -1,9 +1,10 @@
 # Shopping Trend Analysis
-This project is an end-to-end Data Analytics project is built with the help of Python, SQL, and Power BI to know the  customers shopping behavior and identify key revenue drivers.
+This project is an end-to-end Data Analytics project is built with the help of Python, SQL, and Power BI to analyze customer shopping behavior and key revenue metrics.
+
  
  ## 📌 Overview
 
-This project evaluate customer shopping behaviour to drive strategics meaningful business insights using Python, SQL, and Power BI fro visualization.
+This project evaluate customer shopping data, performs exploratory analysis, answers business questions via SQL, and presents some insights with an interactive Power BI dashboard
 The workflow covers:
 Loading and cleaning data in Python.
 Performing Exploratory Data Analysis (EDA).
@@ -21,9 +22,9 @@ Creating a professional report and presentation.
 
 ## 🛠️ Tools & Technologies
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn).
+- Python (Pandas, NumPy,EDA).
 - SQL (MySQL).
-- Power BI (Data Modeling, DAX, Dashboarding).
+- Power BI (Data Modeling ,Dashboard, DAX).
 - Gamma → PPT.
 - GitHub.
 
@@ -85,7 +86,7 @@ Slicers:
 - Shipping Types.
 
 
-## 📊 Results & Key Insights.
+## 💡 Results & Key Insights.
 
 - Clothing category generates the highest revenue.
 - Subscribed customers have higher lifetime value.
@@ -104,7 +105,6 @@ The dashboard presents:
 - Product and category performance
 - Impact of subscriptions and discounts
   
-<img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/5c8b79de-db70-47c2-974d-15390d2a6c87" />
 <img width="774" height="437" alt="Dashboard_Image png 2" src="https://github.com/user-attachments/assets/9ff9f4ec-e531-40c1-b4ef-3a0b314bd4db" />
 
 
