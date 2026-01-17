@@ -105,6 +105,8 @@ The dashboard presents:
 - Impact of subscriptions and discounts
   
 <img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/5c8b79de-db70-47c2-974d-15390d2a6c87" />
+<img width="774" height="437" alt="Dashboard_Image png 2" src="https://github.com/user-attachments/assets/9ff9f4ec-e531-40c1-b4ef-3a0b314bd4db" />
+
 
 
 ## ▶️ How to Run the Project
